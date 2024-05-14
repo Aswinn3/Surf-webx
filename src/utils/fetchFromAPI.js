@@ -7,7 +7,7 @@ const options = {
     maxResults: 50,
   },
   headers: {
-    'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
+    'X-RapidAPI-Key': 'ec31a307e3mshda32096535b1990p167d24jsnc4f1d0473853',
     'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com',
     'Accept-Encoding': 'gzip, deflate, br'
   },
